@@ -1,0 +1,42 @@
+[
+    {
+      "id": 4,
+      "level": 1,
+      "activeState": 1,
+      "description_en": "Padel",
+      "description_nl": "Padel",
+      "description_de": "Padel",
+      "description_fr": "Padel",
+      "description_es": "Padel"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "activeState": 1,
+      "description_en": "Climbing",
+      "description_nl": "Klimmen",
+      "description_de": "Climbing",
+      "description_fr": "Climbing",
+      "description_es": "Climbing"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "activeState": 1,
+      "description_en": "Tennis",
+      "description_nl": "Tennis",
+      "description_de": "Tennis",
+      "description_fr": "Tennis",
+      "description_es": "Tennis"
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "activeState": 1,
+      "description_en": "Squash",
+      "description_nl": "Squash",
+      "description_de": "Squash",
+      "description_fr": "Squash",
+      "description_es": "Squash"
+    }
+  ]

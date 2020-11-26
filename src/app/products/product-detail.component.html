@@ -1,0 +1,37 @@
+<div class='card mx-auto' style="width: 50vw">
+
+  <div class='card-header'>
+    {{ pageTitle + ': ' + product.description }}
+  </div>
+
+  <div class='card-body'>
+
+    <div class='row'>
+      <div class='col-md-6'>Description:</div>
+      <div class='col-md-6'>{{ product.description }}</div>
+    </div>
+
+    <div class='row'>
+      <div class='col-md-6'>ID:</div>
+      <div class='col-md-6'>{{ product.id }}</div>
+    </div>
+
+    <div class='row'>
+      <div class='col-md-6'>Product code:</div>
+      <div class='col-md-6'>{{ product.productCode }}</div>
+    </div>
+
+    <div class='row'>
+      <div class='col-md-6'>Price:</div>
+      <div class='col-md-6'>{{ product.price | currency: 'EUR' : 'symbol' : '1.2-2' }}</div>
+    </div>
+
+  </div>
+
+  <div class='card-footer text-center'>
+    <button class='btn btn-outline-secondary' (click)='onBack()' style='width:80px'>
+      <i class='fa fa-chevron-left'></i> Back
+    </button>
+  </div>
+
+</div>

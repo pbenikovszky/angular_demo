@@ -1,0 +1,51 @@
+[
+    {
+      "id": 106,
+      "description": "11 Chips",
+      "productCode": "107",
+      "price": 0.8,
+      "siteId": 0
+    },
+    {
+      "id": 107,
+      "description": "11 Weizen",
+      "productCode": "100",
+      "price": 3.3,
+      "siteId": 0
+    },
+    {
+      "id": 108,
+      "description": "BITTERBALLEN",
+      "productCode": "105",
+      "price": 5.5,
+      "siteId": 0
+    },
+    {
+      "id": 109,
+      "description": "Sateh van kip, salade & brood",
+      "productCode": "104",
+      "price": 9.5,
+      "siteId": 0
+    },
+    {
+      "id": 110,
+      "description": "UITSMIJTER",
+      "productCode": "104",
+      "price": 6.5,
+      "siteId": 0
+    },
+    {
+      "id": 112,
+      "description": "Pannenkoek",
+      "productCode": "104",
+      "price": 3.5,
+      "siteId": 0
+    },
+    {
+      "id": 114,
+      "description": "Magnum",
+      "productCode": "107",
+      "price": 3,
+      "siteId": 0
+    }
+]

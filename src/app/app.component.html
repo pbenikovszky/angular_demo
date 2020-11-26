@@ -1,0 +1,9 @@
+<nav class="navbar navbar-expand navbar-dark bg-dark sticky-top">
+  <a class="navbar-brand">{{ title }}</a>
+  <ul class="nav nap-pills">
+    <li><a class="nav-link" [routerLink]="['/']">Home</a></li>
+    <li><a class="nav-link" [routerLink]="['/products']">Products</a></li>
+    <li><a class="nav-link" [routerLink]="['/tags']">Tags</a></li>
+  </ul>
+</nav>
+<router-outlet></router-outlet>
